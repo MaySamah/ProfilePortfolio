@@ -380,7 +380,6 @@ section h2::after
 
 #skills-section i:hover 
     {
-        transform: scale(1.2);
         color: #633f1a;
     }
 
